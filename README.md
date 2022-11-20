@@ -1,2 +1,2 @@
-# MicroServices
-Micro Services Application
+# Java Script
+Java Script Application
